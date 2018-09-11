@@ -39,4 +39,11 @@ var Movies = map[int64]datamodels.Movie{
 		Genre:  "Thriller",
 		Poster: "https://iris-go.com/images/examples/mvc-movies/5.jpg",
 	},
+	6: {
+		ID:     6,
+		Name:   "St",
+		Year:   1975,
+		Genre:  "Thriller",
+		Poster: "https://iris-go.com/images/examples/mvc-movies/5.jpg",
+	}
 }
